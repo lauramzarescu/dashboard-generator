@@ -1,0 +1,74 @@
+{
+    "id": "cfd3db21-df24-46cd-a2f1-0726291286b6",
+    "dataSourceUrl": "https://fc96fde3-eab7-4a7f-af6c-45350fd9390a.mock.pstmn.io/chart/line/multiple",
+    "authentication": false,
+    "title": "Chart title",
+    "description": "Chart description",
+    "data": {
+        "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        "datasets": [
+            {
+                "label": "Active Users",
+                "borderColor": "red",
+                "pointBorderColor": "#FFF",
+                "pointBackgroundColor": "#f96332",
+                "pointBorderWidth": 2,
+                "pointHoverRadius": 4,
+                "pointHoverBorderWidth": 1,
+                "pointRadius": 4,
+                "fill": true,
+                "backgroundColor": "transparent",
+                "borderWidth": 5,
+                "tension": 0,
+                "data": [42, 80, 30, 50, 50, 45, 80, 34, 68, 120, 80, 30]
+            }
+        ]
+    },
+    "options": {
+        "animation": { "duration": 0 },
+        "maintainAspectRatio": false,
+        "plugins": {
+            "legend": { "display": false },
+            "tooltips": {
+                "bodySpacing": 4,
+                "mode": "nearest",
+                "intersect": 0,
+                "position": "nearest",
+                "xPadding": 10,
+                "yPadding": 10,
+                "caretPadding": 10
+            }
+        },
+        "responsive": 1,
+        "scales": {
+            "y": {
+                "display": true,
+                "grid": {
+                    "zeroLineColor": "transparent",
+                    "drawTicks": false,
+                    "display": false,
+                    "drawBorder": false
+                },
+                "ticks": { "display": false, "maxTicksLimit": 7 }
+            },
+            "x": {
+                "display": true,
+                "ticks": {
+                    "display": false,
+                    "maxTicksLimit": 7
+                },
+                "grid": {
+                    "zeroLineColor": "transparent",
+                    "drawTicks": false,
+                    "display": false,
+                    "drawBorder": false
+                }
+            }
+        },
+        "layout": {
+            "padding": { "left": 0, "right": 0, "top": 15, "bottom": 15 }
+        }
+    },
+    "dropdown": false,
+    "type": "line"
+}

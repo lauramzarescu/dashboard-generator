@@ -1,0 +1,92 @@
+{
+    "id": "18ee88ec-8c0f-4416-993f-65c412b08a64",
+    "dashboardSizeWidth": "33%",
+    "dataSourceUrl": "https://chartt.free.beeceptor.com/line/3",
+    "authentication": false,
+    "refreshDuration": "400",
+    "status": "Active",
+    "title": "Line Chart",
+    "description": "3 datasets",
+    "data": {
+        "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        "datasets": [
+            {
+                "label": "Active users",
+                "borderColor": "#7bdcb5",
+                "pointBorderColor": "#FFF",
+                "pointBackgroundColor": "#f96332",
+                "pointBorderWidth": 2,
+                "pointHoverRadius": 8,
+                "pointHoverBorderWidth": 1,
+                "pointRadius": 4,
+                "fill": true,
+                "backgroundColor": "transparent",
+                "borderWidth": 5,
+                "tension": 0.4,
+                "data": [951, 703, 582, 907, 161, 543, 756, 854, 351, 597, 821, 425]
+            },
+            {
+                "label": "Disabled users",
+                "borderColor": "#9900ef",
+                "pointBorderColor": "#FFF",
+                "pointBackgroundColor": "#f96332",
+                "pointBorderWidth": 2,
+                "pointHoverRadius": 8,
+                "pointHoverBorderWidth": 1,
+                "pointRadius": 4,
+                "fill": true,
+                "backgroundColor": "transparent",
+                "borderWidth": 5,
+                "tension": 0.4,
+                "data": [99, 323, 770, 446, 75, 800, 96, 624, 60, 161, 945, 125]
+            },
+            {
+                "label": "Stall users",
+                "borderColor": "#eb144c",
+                "pointBorderColor": "#FFF",
+                "pointBackgroundColor": "#f96332",
+                "pointBorderWidth": 2,
+                "pointHoverRadius": 8,
+                "pointHoverBorderWidth": 1,
+                "pointRadius": 4,
+                "fill": true,
+                "backgroundColor": "transparent",
+                "borderWidth": 5,
+                "tension": 0.4,
+                "data": [471, 113, 334, 463, 724, 823, 512, 806, 699, 640, 995, 694]
+            }
+        ]
+    },
+    "options": {
+        "animation": { "duration": 0 },
+        "maintainAspectRatio": false,
+        "plugins": {
+            "legend": { "display": false },
+            "tooltips": {
+                "bodySpacing": 4,
+                "mode": "nearest",
+                "intersect": 0,
+                "position": "nearest",
+                "xPadding": 10,
+                "yPadding": 10,
+                "caretPadding": 10
+            }
+        },
+        "responsive": 1,
+        "scales": {
+            "y": {
+                "display": true,
+                "grid": { "zeroLineColor": "transparent", "drawTicks": false, "display": true, "drawBorder": false },
+                "ticks": { "display": true, "maxTicksLimit": 7 }
+            },
+            "x": {
+                "display": true,
+                "ticks": { "display": false, "maxTicksLimit": 7 },
+                "grid": { "zeroLineColor": "transparent", "drawTicks": false, "display": true, "drawBorder": false }
+            }
+        },
+        "layout": { "padding": { "left": 0, "right": 0, "top": 15, "bottom": 15 } }
+    },
+    "dropdown": true,
+    "type": "line"
+}

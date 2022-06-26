@@ -1,0 +1,76 @@
+// MARGINS AND PADDINGS
+@for $i from 1 through 100 {
+    .m-l-#{$i} {
+        margin-left: $i + px;
+    }
+}
+
+@for $i from 1 through 100 {
+    .p-#{$i} {
+        padding: $i + px;
+    }
+}
+
+@for $i from 1 through 100 {
+    .m-#{$i} {
+        margin: $i + px;
+    }
+}
+
+.no-margin {
+    margin: 0 !important;
+}
+
+// WIDTH AND HEIGHT
+@for $i from 1 through 100 {
+    .w-#{$i} {
+        width: #{$i}#{'%'};
+    }
+}
+
+@for $i from 1 through 100 {
+    .h-#{$i} {
+        height: #{$i}#{'%'};
+    }
+}
+
+// ALIGNMENT
+.align-center {
+    text-align: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.f-right {
+    float: right;
+}
+
+// DISPLAY
+
+.d-flex {
+    display: flex;
+}
+
+// SPECIFIC CLASSES
+
+.json-card {
+    height: 70vh;
+    overflow: scroll;
+}
+
+.centered-loading-animation {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, 0);
+}
+
+.blur-5 {
+    filter: blur(5px);
+}
