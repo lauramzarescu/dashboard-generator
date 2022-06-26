@@ -1,12 +1,12 @@
-# [Now UI Dashboard React](https://demos.creative-tim.com/now-ui-dashboard-react/#/dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnow-ui-dashboard-react%2F%23%2Fdashboard&text=Now%20UI%20Dashboard%20React%20by%20Creative%20Tim%20%7C%20Free%20React%20Admin%20Template&original_referer=http%3A%2F%2Flocalhost%3A3000%2Fdashboard&via=creativetim&hashtags=react%2Cbootstrap)
+# [Now UI Dashboard React](https://demos.creative-tim.com/dashboard-generator-react/#/dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fdashboard-generator-react%2F%23%2Fdashboard&text=Now%20UI%20Dashboard%20React%20by%20Creative%20Tim%20%7C%20Free%20React%20Admin%20Template&original_referer=http%3A%2F%2Flocalhost%3A3000%2Fdashboard&via=creativetim&hashtags=react%2Cbootstrap)
 
 
 
-![version](https://img.shields.io/badge/version-1.5.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/now-ui-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/now-ui-dashboard-react.svg?maxAge=2592000)]() [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.5.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/dashboard-generator-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/dashboard-generator-react.svg?maxAge=2592000)]() [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](./now-ui-dashboard-react.gif)
+![Product Gif](./dashboard-generator-react.gif)
 
-**[Now UI Dashboard React](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/dashboard)** is an admin dashboard template designed to be beautiful and simple. It is built on top of [Reactstrap](https://reactstrap.github.io/) and [React](https://reactjs.org/) ([create-react-app](https://github.com/facebook/create-react-app)), using [Now UI Dashboard](https://www.creative-tim.com/product/now-ui-dashboard) and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
+**[Now UI Dashboard React](https://demos.creative-tim.com/dashboard-generator-react/#/admin/dashboard)** is an admin dashboard template designed to be beautiful and simple. It is built on top of [Reactstrap](https://reactstrap.github.io/) and [React](https://reactjs.org/) ([create-react-app](https://github.com/facebook/create-react-app)), using [Now UI Dashboard](https://www.creative-tim.com/product/dashboard-generator) and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
 
 The product represents a big suite of front-end developer tools that can help you jump start your project. We have created it thinking about things you actually need in a dashboard. Now UI Dashboard React contains multiple handpicked and optimized plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on Creative Tim is a customization of this product.
 
@@ -29,36 +29,36 @@ It comes with 6 filter colors for the sidebar (`black`, `blue`, `green`, `orange
 
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard-react)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard-angular2)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/dashboard-generator)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/dashboard-generator-react)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/dashboard-generator-angular2)
 
 
 | HTML | React | Angular |
 | --- | --- | --- |
-| [![Now UI Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/75/original/opt_nud_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard) | [![Now UI Dashboard React](https://s3.amazonaws.com/creativetim_bucket/products/76/original/opt_nud_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-react) | [![Now UI Dashboard Angular](https://s3.amazonaws.com/creativetim_bucket/products/85/original/opt_nud_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-angular2)
+| [![Now UI Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/75/original/opt_nud_thumbnail.jpg)](https://www.creative-tim.com/product/dashboard-generator) | [![Now UI Dashboard React](https://s3.amazonaws.com/creativetim_bucket/products/76/original/opt_nud_react_thumbnail.jpg)](https://www.creative-tim.com/product/dashboard-generator-react) | [![Now UI Dashboard Angular](https://s3.amazonaws.com/creativetim_bucket/products/85/original/opt_nud_angular_thumbnail.jpg)](https://www.creative-tim.com/product/dashboard-generator-angular2)
 
 ## Demo
 
 | Dashboard | User Profile | Tables | Maps | Notification |
 | --- | --- | --- | --- | --- |
-| [![Start page](./src/assets/github/dashboard.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/dashboard) | [![User profile page](./src/assets/github/user_profile.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/user) | [![Tables page ](./src/assets/github/tables.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/table) | [![Maps Page](./src/assets/github/maps.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/maps) | [![Notification page](./src/assets/github/notification.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/notifications)
+| [![Start page](./src/assets/github/dashboard.jpg)](https://demos.creative-tim.com/dashboard-generator-react/#/admin/dashboard) | [![User profile page](./src/assets/github/user_profile.jpg)](https://demos.creative-tim.com/dashboard-generator-react/#/admin/user) | [![Tables page ](./src/assets/github/tables.jpg)](https://demos.creative-tim.com/dashboard-generator-react/#/admin/table) | [![Maps Page](./src/assets/github/maps.jpg)](https://demos.creative-tim.com/dashboard-generator-react/#/admin/maps) | [![Notification page](./src/assets/github/notification.jpg)](https://demos.creative-tim.com/dashboard-generator-react/#/admin/notifications)
 
-[View More](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/dashboard).
+[View More](https://demos.creative-tim.com/dashboard-generator-react/#/admin/dashboard).
 
 
 ## Quick start
 
 Quick start options:
 
-- `npm i now-ui-dashboard-react` (you will need to import from the dist folder our components)
-- Clone the repo: `git clone https://github.com/creativetimofficial/now-ui-dashboard-react.git`.
-- [Download from Github](https://github.com/creativetimofficial/now-ui-dashboard-react/archive/main.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/now-ui-dashboard-react).
+- `npm i dashboard-generator-react` (you will need to import from the dist folder our components)
+- Clone the repo: `git clone https://github.com/creativetimofficial/dashboard-generator-react.git`.
+- [Download from Github](https://github.com/creativetimofficial/dashboard-generator-react/archive/main.zip).
+- [Download from Creative Tim](https://www.creative-tim.com/product/dashboard-generator-react).
 
 
 ## Documentation
-The documentation for the Now UI Dashboard React is hosted at our [website](https://demos.creative-tim.com/now-ui-dashboard-react/#/documentation/tutorial).
+The documentation for the Now UI Dashboard React is hosted at our [website](https://demos.creative-tim.com/dashboard-generator-react/#/documentation/tutorial).
 
 
 ## File Structure
@@ -89,13 +89,13 @@ Now UI Dashboard React
     │   │   │   └── ...
     │   │   └── ...
     │   └── sass
-    │       ├── now-ui-dashboard
+    │       ├── dashboard-generator
     │       │   ├── mixins
     │       │   │   └── ...
     │       │   ├── plugins
     │       │   │   └── ...
     │       │   └── ...
-    │       └── now-ui-dashboard.scss
+    │       └── dashboard-generator.scss
     ├── components
     │   ├── Card
     │   │   └── Card.js
@@ -158,12 +158,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: https://demos.creative-tim.com/now-ui-dashboard-react
-- Download Page: https://www.creative-tim.com/product/now-ui-dashboard-react
-- Documentation: https://demos.creative-tim.com/now-ui-dashboard-react/#/documentation/tutorial
+- Demo: https://demos.creative-tim.com/dashboard-generator-react
+- Download Page: https://www.creative-tim.com/product/dashboard-generator-react
+- Documentation: https://demos.creative-tim.com/dashboard-generator-react/#/documentation/tutorial
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/now-ui-dashboard-react/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/dashboard-generator-react/issues)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Now UI Dashboard React. Here are some advices for our users that want to report an issue:
@@ -179,7 +179,7 @@ If you have questions or need help integrating the product please [contact us](h
 ## Licensing
 
 - Copyright 2021 Creative Tim (https://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/now-ui-dashboard-react/blob/main/LICENSE.md)
+- Licensed under MIT (https://github.com/creativetimofficial/dashboard-generator-react/blob/main/LICENSE.md)
 
 ## Useful Links
 

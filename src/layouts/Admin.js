@@ -39,7 +39,6 @@ function Admin(props) {
         <div className='wrapper'>
             <Sidebar {...props} routes={routes} backgroundColor={backgroundColor} />
             <div className='main-panel' ref={mainPanel}>
-                <DemoNavbar {...props} />
                 <Switch>
                     {routes.map((prop, key) => {
                         return <Route path={prop.layout + prop.path} component={prop.component} key={key} />;

@@ -12,7 +12,7 @@ gulp.task("licenses", async function () {
 * Now UI Dashboard React - v1.5.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/now-ui-dashboard-react
+* Product Page: https://www.creative-tim.com/product/dashboard-generator-react
 * Copyright 2021 Creative Tim (http://www.creative-tim.com)
 
 * Coded by Creative Tim
@@ -35,7 +35,7 @@ gulp.task("licenses", async function () {
   * Now UI Dashboard React - v1.5.0
   =========================================================
 
-  * Product Page: https://www.creative-tim.com/product/now-ui-dashboard-react
+  * Product Page: https://www.creative-tim.com/product/dashboard-generator-react
   * Copyright 2021 Creative Tim (http://www.creative-tim.com)
 
   * Coded by Creative Tim
@@ -58,7 +58,7 @@ gulp.task("licenses", async function () {
 * Now UI Dashboard React - v1.5.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/now-ui-dashboard-react
+* Product Page: https://www.creative-tim.com/product/dashboard-generator-react
 * Copyright 2021 Creative Tim (http://www.creative-tim.com)
 
 * Coded by Creative Tim
@@ -81,7 +81,7 @@ gulp.task("licenses", async function () {
 * Now UI Dashboard React - v1.5.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/now-ui-dashboard-react
+* Product Page: https://www.creative-tim.com/product/dashboard-generator-react
 * Copyright 2021 Creative Tim (http://www.creative-tim.com)
 
 * Coded by Creative Tim

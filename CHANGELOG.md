@@ -38,14 +38,14 @@ _You will also have the following message: found 80 vulnerabilities (1 low, 79 m
 ### Bug fixing
 - Changed all `jsx` files to `js` ones
 - Run prettier on all files, so there might be changes due to this
-- https://github.com/creativetimofficial/now-ui-dashboard-react/issues/10
+- https://github.com/creativetimofficial/dashboard-generator-react/issues/10
 - Other Now UI React products:
-  - https://github.com/creativetimofficial/ct-now-ui-dashboard-pro-react/issues/31 (changed the fonts import to `~assets/fonts` and also added assets path inside `jsconfig.json` file)
-  - https://github.com/creativetimofficial/ct-now-ui-dashboard-pro-react/issues/10 (add `scrollTop` inside the `Admin` layout)
+  - https://github.com/creativetimofficial/ct-dashboard-generator-pro-react/issues/31 (changed the fonts import to `~assets/fonts` and also added assets path inside `jsconfig.json` file)
+  - https://github.com/creativetimofficial/ct-dashboard-generator-pro-react/issues/10 (add `scrollTop` inside the `Admin` layout)
   - https://github.com/creativetimofficial/ct-now-ui-kit-pro-react/issues/2 (added warnings on the documentation about this issue - unfortunately, we need to keep our own homepage prop inside the package.json for copyright issues)
 ### Major style changes
-- `src/assets/scss/now-ui-dashboard/_variables.scss` (changed the fonts import to `~assets/fonts` and also added assets path inside `jsconfig.json` file)
-- `src/assets/scss/now-ui-dashboard/_nucleo-outline.scss` (changed the fonts import to `~assets/fonts` and also added assets path inside `jsconfig.json` file)
+- `src/assets/scss/dashboard-generator/_variables.scss` (changed the fonts import to `~assets/fonts` and also added assets path inside `jsconfig.json` file)
+- `src/assets/scss/dashboard-generator/_nucleo-outline.scss` (changed the fonts import to `~assets/fonts` and also added assets path inside `jsconfig.json` file)
 ### Deleted components
 ### Added components
 ### Deleted dependencies
@@ -78,10 +78,10 @@ _Warnings might appear while doing an npm install - they do not affect the UI or
 
 ## [1.2.0] 2019-06-07
 ### Major changes
-- Solved https://github.com/creativetimofficial/now-ui-dashboard-react/issues/1
-- Solved https://github.com/creativetimofficial/now-ui-dashboard-react/issues/3
-- Solved https://github.com/creativetimofficial/now-ui-dashboard-react/issues/4
-- Solved https://github.com/creativetimofficial/now-ui-dashboard-react/issues/7
+- Solved https://github.com/creativetimofficial/dashboard-generator-react/issues/1
+- Solved https://github.com/creativetimofficial/dashboard-generator-react/issues/3
+- Solved https://github.com/creativetimofficial/dashboard-generator-react/issues/4
+- Solved https://github.com/creativetimofficial/dashboard-generator-react/issues/7
 - Almost all of the styles inside `src/scss` have been changed
 - We've removed `src/routes/*` files and replaced them with just one file (`src/routes.js`)
 - We've renamed `src/layouts/Dashboard/Dashboard.jsx` to `src/layouts/Admin.jsx`
@@ -130,8 +130,8 @@ reactstrap                  6.4.0   →    8.0.0
 ## [1.1.0] 2018-08-31
 ### Bug fixing
 - Github issues
-  - https://github.com/creativetimofficial/now-ui-dashboard-react/issues/1
-  - https://github.com/creativetimofficial/now-ui-dashboard-react/issues/4
+  - https://github.com/creativetimofficial/dashboard-generator-react/issues/1
+  - https://github.com/creativetimofficial/dashboard-generator-react/issues/4
 - Added lint commands
 - Added commands for creating a npmjs library
 ### Added dependencies
